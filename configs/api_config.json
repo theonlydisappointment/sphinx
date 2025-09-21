@@ -1,0 +1,18 @@
+{
+  "stripe": {
+    "base_url": "https://api.stripe.com/v1",
+    "webhook_secret": "whsec_..."
+  },
+  "google_drive": {
+    "upload_url": "https://www.googleapis.com/upload/drive/v3/files?uploadType=multipart"
+  },
+  "instagram": {
+    "graph_url": "https://graph.facebook.com/v17.0"
+  },
+  "discord": {
+    "webhook": "https://discord.com/api/webhooks/..."
+  },
+  "cloudconvert": {
+    "base_url": "https://api.cloudconvert.com/v2"
+  }
+}
